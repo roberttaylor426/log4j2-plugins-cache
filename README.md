@@ -19,7 +19,7 @@ The code is based off of the same technique used for Maven in https://github.com
 
 ## Usage
 
-Add the following to your project.clj to laod the plugin.
+Add the following to your project.clj to load the plugin.
 
 ```clj
   :plugins
